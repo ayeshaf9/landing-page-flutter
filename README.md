@@ -1,6 +1,9 @@
-# landing_page
+# Landing page 
 
-A new Flutter project.
+A landing page designed using Flutter web.
+
+## Demo
+![page](https://github.com/ayeshaf9/landing-page-flutter/blob/master/landingPage.PNG)
 
 ## Getting Started
 
